@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gold_types">
+        <item>Keep (85 gram)</item>
+        <item>Wear (200 gram)</item>
+    </string-array>
+
+    <string name="select_gold_type">Select Gold Type</string>
+
+</resources>
